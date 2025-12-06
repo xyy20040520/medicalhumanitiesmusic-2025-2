@@ -15,6 +15,8 @@ Another introduction to the opera La Bohème.[La Bohème](kwon-doyeon.md).
 
 Another opera in which the heroine suffers from tuberculosis. In La Traviata, the heroine Violetta also suffers from tuberculosis and eventually dies of it.[La Traviata](woo-yerin.md).
 
+If I could choose a piece of music to be played at my funeral, I would choose [the third movement of Rachmaninoff’s Symphony No. 2](https://youtu.be/hfgrXm1t69c?si=PK9pc6Qq4Kdt2fye). The emotions in this movement are deep and intensely concentrated, like waves that slowly rise and wash over the heart. The feelings that are difficult to put into words—love, regret, effort, and the warmth that still lingers—seem to seep through all at once. I think the time I have lived also felt like that. This movement speaks for me: “I loved as much as I could, and I tried my best to live.”I may not be good at expressing these things, but I feel that this music conveys my heart more accurately than words ever could.
+
 <img src="./xu-yangyang.png" alt="Abstract image of TB" style="width:33%;" />
 
 # 라 보엠
@@ -26,3 +28,5 @@ Another opera in which the heroine suffers from tuberculosis. In La Traviata, th
 <라 보엠> 이 오페라에 대해 다른 소개. [라 보엠](kwon-doyeon.md).
 
 여주인공이 결핵에 걸린 다른 오페라. [라 트라비아타](woo-yerin.md).에서 여주인공 비올레타도 결핵을 앓다가 결국 결핵으로 죽게 된다.
+
+나의 장례식에서 음악을 틀을 수 있다면 나는 [라흐마니노프 교향곡 2번 3억장](https://youtu.be/hfgrXm1t69c?si=PK9pc6Qq4Kdt2fye)을 틀고 싶다. 이 악장은 깊고 농도 짙은 감정이 천천히 밀려오는 느낌이다. 말로는 표현하기 어려운 마음—사랑, 후회, 애씀, 그리고 아직 남아 있는 따뜻함—이 한 번에 스며든다. 내가 살아온 시간들도 그랬던 것 같다. 이 악장은 그 말들을 대신 해준다. “나는 최선을 다해 사랑했고, 애쓰며 살아냈다.” 말로는 잘 못 하지만, 이 음악이라면 그 마음을 가장 정확하게 전해줄 것 같다.
